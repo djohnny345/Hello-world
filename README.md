@@ -1,1 +1,2 @@
-# Hello-world lol
+# Hello-world lol sprawdzam opis bez pull request
+
